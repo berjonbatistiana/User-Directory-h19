@@ -1,7 +1,6 @@
 import React from "react";
 import {HashRouter as Router, Route} from "react-router-dom";
-import Home from './pages/common/Home'
-import './App.css';
+import {Home} from './pages/common/components'
 
 function App() {
   return (
